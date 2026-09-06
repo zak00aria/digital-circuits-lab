@@ -17,4 +17,3 @@ You can view all of the projects on my CircuitVerse [dashboard](https://circuitv
 | [8-Bit ALU](./8-bit-ALU/) | An ALU supporting arithmetic, logic, and shift operations |
 | [Infinite Tic-Tac-Toe Game](./Infinite-Tic-Tac-Toe/) | A two-player game using a `24 x 24` pixel matrix |
 
-you can check all projects on circuitverse from [here](link to all projects dashboard)
